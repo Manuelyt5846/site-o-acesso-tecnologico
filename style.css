@@ -1,0 +1,23 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: bisque;
+}
+
+header{
+    background-color: blue(177,118,232)
+    padding;10px;
+    text-align:center;
+}
+
+
+h1{
+    color:aqua(48,11,232);
+    padding:90px;
+}
+
+button{
+    background-color: black;
+    color: azure;
+    align-items:center ;
+}
+backgroud-size:
